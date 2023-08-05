@@ -1,0 +1,28 @@
+/* style.css */
+.movie-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto;
+}
+
+.movie-card h2 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.movie-card p {
+  font-size: 14px;
+}
+
+.movies-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
