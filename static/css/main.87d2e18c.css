@@ -1,0 +1,2 @@
+.movie-card{border:1px solid #ccc;display:flex;flex-direction:column;justify-content:space-between;padding:10px}.movie-card img{height:auto;width:100%}.movie-card h2{font-size:18px;margin:10px 0}.movie-card p{font-size:14px}.movies-grid{grid-gap:20px;display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+/*# sourceMappingURL=main.87d2e18c.css.map*/
